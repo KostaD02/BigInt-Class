@@ -1,2 +1,2 @@
-# BigInt-in-c-
+# BigInt in c++
 BigInt class in c++
